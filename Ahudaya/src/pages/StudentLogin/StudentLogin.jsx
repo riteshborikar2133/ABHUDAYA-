@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import "./Home.css"
-export default function Home() {
+import "./StudentLogin.css"
+export default function StudentLogin() {
 
     const [formData, setFormData] = useState({
         applicantName: '',
